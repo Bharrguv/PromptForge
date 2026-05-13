@@ -199,9 +199,7 @@ cd frontend && npm test
 4. Test thoroughly
 5. Submit a pull request
 
-## License
 
-MIT License - see LICENSE file for details
 
 ## Support
 
