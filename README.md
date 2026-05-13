@@ -2,7 +2,7 @@
 
 An AI-powered web application builder that generates complete React applications from natural language prompts using Claude AI and WebContainer.
 
-#Preview
+# Preview
 <img width="1878" height="822" alt="Image" src="https://github.com/user-attachments/assets/43a2b7ab-e8a4-4f42-8f41-b67f8f4c58a5" />
 <img width="581" height="355" alt="Image" src="https://github.com/user-attachments/assets/fbb3cf39-21c5-4f2c-95b1-a91d0dbf5b8f" />
 
